@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+p.odd {
+    background-color: rgb(255, 131, 131);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#second{
+    color:blue;
+    font-size: 36px;
+}
+
+#fourth{
+    background-color: rgb(13, 255, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cooler{
+    font-size: 24px;
+}
